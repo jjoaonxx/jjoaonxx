@@ -97,7 +97,7 @@ Me chamo João Alberto, tenho 18 anos e sou natural do Piauí. Concluí o ensino
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="140" 
+      height="143" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaonxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
